@@ -1,6 +1,8 @@
 
-<img align="center" style="margin-bottom:85px; object-fit: contain" width=100% src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" />
-&nbsp;&nbsp;&nbsp;
+<div style="margin-bottom: 100px; display: flex; justify-content: center;">
+    <img style="object-fit: contain; width: 100%;" src="https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif" />
+</div>
+
 
 
 <p align="center">Sou um programador em início de carreira, sempre na procura de aprender mais e aprimorar meus conhecimentos e habilidades. Tenho interesse na automação de tarefas, assim como na eficiência das mesmas, sempre me dedicando na busca de novas competências, tanto técnicas quanto gerenciais, para crescer e contribuir de forma significativa em projetos e equipes, sempre com foco na inovação e na eficiência.</p>&nbsp;
