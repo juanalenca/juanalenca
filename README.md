@@ -1,6 +1,6 @@
 
 <div style="margin-bottom: 100px; display: flex; justify-content: center;">
-    <img style="object-fit: contain; width: 100%;" src="https://i.pinimg.com/originals/0a/dd/5a/0add5a26394fa458118f96c0bb49e840.gif" />
+    <img style="object-fit: contain; width: 100%;" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif" />
 </div>
 
 
