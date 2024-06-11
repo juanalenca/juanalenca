@@ -25,7 +25,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 
-<img src="https://static.vecteezy.com/system/resources/previews/011/997/005/non_2x/digital-marketing-3d-icon-illustration-for-your-website-user-interface-and-presentation-3d-render-illustration-free-png.png" style="position: relative; top: -20px; min-width: 400px; max-width: 300px; width: 300px;" align="right" alt="Computador iuriCode">
+<img src="https://static.vecteezy.com/system/resources/previews/011/997/005/non_2x/digital-marketing-3d-icon-illustration-for-your-website-user-interface-and-presentation-3d-render-illustration-free-png.png" style="position: relative; top: -20px; min-width: 400px; max-width: 350px; width: 350px;" align="right" alt="Computador iuriCode">
 
 
 #### Studying in this moment:
