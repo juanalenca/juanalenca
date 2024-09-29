@@ -4,7 +4,7 @@
 
 
 
-<p align="center">Sou um programador em início de carreira, sempre na procura de aprender mais e aprimorar meus conhecimentos e habilidades. Tenho interesse na automação de tarefas, assim como na eficiência das mesmas, sempre me dedicando na busca de novas competências, tanto técnicas quanto gerenciais, para crescer e contribuir de forma significativa em projetos e equipes, sempre com foco na inovação e na eficiência.</p>&nbsp;
+<p align="center">Sou um programador em início de carreira, sempre em busca de aprender e aprimorar meus conhecimentos e habilidades. Tenho grande interesse tanto no desenvolvimento de interfaces intuitivas e funcionais quanto na construção de sistemas robustos e eficientes no backend. Estou constantemente procurando novas competências, tanto técnicas quanto gerenciais, com o objetivo de crescer e contribuir de forma significativa em projetos e equipes, sempre com foco na inovação e na eficiência.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=juanalenca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
