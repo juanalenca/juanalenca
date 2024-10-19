@@ -11,10 +11,8 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanalenca&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
  
- &nbsp;
- &nbsp;
-
-
+<br>
+<br>
 
 ## My Skills
 
@@ -37,18 +35,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
 
-
-&nbsp;
-&nbsp;
+<br>
 
 ## Contacts:
 
 <div> 
 <a href="https://www.linkedin.com/in/juan-alencar-de-barros/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"  target="_blank"></a>
 <a href = "mailto:contato.juanbarrosdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+</div>
