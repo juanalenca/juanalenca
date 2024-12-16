@@ -23,7 +23,7 @@
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,react,ts,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,python,react,php,tailwind)](https://skillicons.dev)
 
 
 #### Databases:
