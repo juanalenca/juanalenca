@@ -18,22 +18,22 @@
 
 #### Main Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,nodejs)](https://skillicons.dev)
 
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,java,python,react,php,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,tailwind)](https://skillicons.dev)
 
 
 #### Databases:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)
 
 
 #### Operating Systems:
