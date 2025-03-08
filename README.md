@@ -4,7 +4,7 @@
 
 
 
-<p align="center">Sou um programador em início de carreira, sempre em busca de aprender e aprimorar meus conhecimentos e habilidades. Tenho grande interesse tanto no desenvolvimento de interfaces intuitivas e funcionais quanto na construção de sistemas robustos e eficientes no backend. Estou constantemente procurando novas competências, tanto técnicas quanto gerenciais, com o objetivo de crescer e contribuir de forma significativa em projetos e equipes, sempre com foco na inovação e na eficiência.</p>&nbsp;
+<p align="center">Sou um profissional em formação na área de TI, com experiência em desenvolvimento de software e suporte técnico. Tenho um perfil proativo, voltado para aprendizado contínuo e busca por soluções eficientes. Minha atuação em projetos e estágios fortaleceu minhas habilidades no desenvolvimento de aplicações e na infraestrutura de TI. Busco oportunidades para aprimorar minhas competências, enfrentar desafios tecnológicos e contribuir para o crescimento da equipe e da empresa.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=juanalenca&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
