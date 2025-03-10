@@ -33,7 +33,7 @@
 
 #### Workstation Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,eclipse,dbeaver,docker&titles=true)
 
 
 #### Operating Systems:
