@@ -24,12 +24,12 @@
 
 #### Studying in this moment:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,react,ts)](https://skillicons.dev)
 
 
 #### Databases:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase)](https://skillicons.dev)
 
 
 #### Workstation Tools:
