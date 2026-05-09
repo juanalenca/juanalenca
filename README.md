@@ -24,7 +24,7 @@
 
 #### Focusing on:
 
-[![My Skills](https://skillicons.dev/icons?i=spring,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
 
 
 #### Databases:
