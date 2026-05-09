@@ -4,7 +4,7 @@
 
 
 
-<p align="center">Sou um profissional em formação na área de TI, com experiência em desenvolvimento de software e suporte técnico. Tenho um perfil proativo, voltado para aprendizado contínuo e busca por soluções eficientes. Minha atuação em projetos e estágios fortaleceu minhas habilidades no desenvolvimento de aplicações e na infraestrutura de TI. Busco oportunidades para aprimorar minhas competências, enfrentar desafios tecnológicos e contribuir para o crescimento da equipe e da empresa.</p>&nbsp;
+<p align="center">Backend developer em formação com experiência em suporte corporativo, automação de processos e desenvolvimento de sistemas.</p>&nbsp;
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juanalenca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&layout=compact"/>
@@ -19,22 +19,22 @@
 
 #### Main Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,nodejs,react)](https://skillicons.dev)
 
 
-#### Studying in this moment:
+#### Focusing on:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,nestjs)](https://skillicons.dev)
 
 
 #### Databases:
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://skillicons.dev)
 
 
 #### Workstation Tools:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,eclipse,dbeaver,docker&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,eclipse,docker&titles=true)
 
 
 #### Operating Systems:
